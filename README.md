@@ -1,16 +1,22 @@
-# Opa, eu sou o Christian! 👋
+# Opa, eu sou o Christian! (20 anos, 80 quilos, etc, etc...)
 
 ### 🛠 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### 📚 Atualmente estudando:
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=chrismlps&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chrismlps&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+    </td>
+  </tr>
+</table>
+
+### Atualmente estudando:
 - 🚀 **Mobile:** React Native e Expo
 - 🎨 **Design:** Figma
-
----
-
-### 📊 Estatísticas do GitHub
-![Estatísticas do meu GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=chrismlps&show_icons=true&theme=radical)
 
 ---
 
