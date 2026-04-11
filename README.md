@@ -3,6 +3,10 @@
 ### 🛠 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+### 📚 Atualmente estudando:
+- 🚀 **Mobile:** React Native e Expo
+- 🎨 **Design:** Figma
+
 ---
 
 ### 📊 Estatísticas do GitHub
