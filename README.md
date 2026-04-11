@@ -1,1 +1,106 @@
-Aguardando atualização...
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
+
+> "You came empty handed, and you will leave empty handed." — *Bhagavad Gita*
