@@ -7,7 +7,7 @@
 ![Estatísticas do meu GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=chrismlps&show_icons=true&theme=radical)
 
 ### 🎵 Ouvindo agora
-![Spotify](https://spotify-recent-played.vercel.app/api?user=cachinsz)
+[![Spotify](https://novatide-spotify-readme.vercel.app/api/spotify?background_color=1d1d1d&text_color=ffffff&user=cachinsz)](https://open.spotify.com/user/cachinsz)
 
 ---
 
