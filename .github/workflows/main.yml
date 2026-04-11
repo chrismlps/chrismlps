@@ -3,17 +3,21 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * *'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Força o fim do warning de Node
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4 # Atualizado!
+      - uses: actions/checkout@v4
       - name: Setup Python
-        uses: actions/setup-python@v5 # Atualizado!
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11' # Versão específica para evitar conflitos
       - name: Install dependencies
         run: pip install requests
       - name: Run script
@@ -23,6 +27,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          # O commit só acontece se houver mudança real, evitando loops
-          git diff --quiet && git diff --staged --quiet || git commit -m "docs: update daily quote"
-          git push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update daily quote" && git push)
