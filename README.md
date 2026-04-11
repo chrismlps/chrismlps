@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Olá,%20eu%20sou%20o%20Christian!%20👋&fontSize=50" />
+  <h1 align="center">Olá, eu sou o Christian! 👋</h1>
 </p>
 
 ### 🛠 Tecnologias e Ferramentas em que eu já mexi:
