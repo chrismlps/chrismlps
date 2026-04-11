@@ -1,17 +1,17 @@
 name: Update README
 on:
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *' # Roda todo dia ao meio-dia
+    - cron: '0 12 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4 # Atualizado!
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Atualizado!
         with:
           python-version: '3.x'
       - name: Install dependencies
@@ -23,5 +23,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "docs: update quote" || exit 0
+          # O commit só acontece se houver mudança real, evitando loops
+          git diff --quiet && git diff --staged --quiet || git commit -m "docs: update daily quote"
           git push
