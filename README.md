@@ -22,7 +22,7 @@
 ---
 
 ### Atualmente estudando:
-- 🚀 **Mobile:** React Native e Expo
+- 🚀 **Java:** Programação Orientada a Objeto
 - 🎨 **Design:** Figma
 
 ---
